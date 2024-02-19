@@ -45,13 +45,17 @@ Successivamente è possibile procedere con la registrazione dell'utente all'URL 
 Una volta effettuato l'accesso, sarà possibile scegliere la modalità di gioco, ovvero classica o contro tutti i robot. Successivamente si potrà selezionare la classe da testare e, nel caso si sia scelta la modalità classica, anche il robot da sfidare. 
 Infine, sarà possibile procedere all'avvio della partita.
 # VIDEO DIMOSTRAZIONE
-## Studente
+## Video1
 
 
-https://github.com/Testing-Game-SAD-2023/T10-G40/assets/33938788/c6cd06c7-5d3a-4988-a651-7e1dc5896909
+https://github.com/Testing-Game-SAD-2023/A6-2024/blob/main/TestUserInterface/Video1.mp4
 
 
 
-## Admin
+## Video2
 
-https://github.com/Testing-Game-SAD-2023/T10-G40/assets/33938788/da3e5d04-7106-40ae-a0f3-1b7d6923c0cd
+https://github.com/Testing-Game-SAD-2023/A6-2024/blob/main/TestUserInterface/Video2.mp4
+
+## Video3
+
+https://github.com/Testing-Game-SAD-2023/A6-2024/blob/main/TestUserInterface/Video3.mp4
