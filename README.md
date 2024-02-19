@@ -48,14 +48,17 @@ Infine, sarà possibile procedere all'avvio della partita.
 ## Video1
 
 
-https://github.com/Testing-Game-SAD-2023/A6-2024/blob/main/TestUserInterface/Video1.mp4
-
+https://github.com/Testing-Game-SAD-2023/A6-2024/assets/92026374/5d506742-573b-4214-9e70-84c0b82f8606
 
 
 ## Video2
 
-https://github.com/Testing-Game-SAD-2023/A6-2024/blob/main/TestUserInterface/Video2.mp4
+
+https://github.com/Testing-Game-SAD-2023/A6-2024/assets/92026374/b38501b7-5d0f-4922-a15a-42f8044791aa
+
 
 ## Video3
 
-https://github.com/Testing-Game-SAD-2023/A6-2024/blob/main/TestUserInterface/Video3.mp4
+
+https://github.com/Testing-Game-SAD-2023/A6-2024/assets/92026374/b9007cd3-d520-44c9-9929-f6c93e8af6f8
+
