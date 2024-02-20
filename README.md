@@ -7,6 +7,11 @@ Componenti:
 - Giuseppe Gatta - M63/1669
 - Nicola Garofalo - N46/3508
 
+# DESCRIZIONE DEL REQUISITO R10
+Il requisito R10 definisce le seguenti funzioni da realizzare:
+- Aggiunta di una nuova modalità di gioco, chiamata “BossRush”, in cui il giocatore sfida tutti i Robot disponibili, eventualmente, entro un tempo massimo
+- Si assuma che ci sia un Robot diverso per ogni coppia Robot+Livello. Esempio: se ci sono 2 livelli del Robot Evosuite, si dovrà presentare ciascun livello come se fosse un Robot diverso
+- Ad ogni turno giocato, ovvero ogni sfida contro i Robot, l’applicazione dovrebbe mostrare un messaggio riguardo quanti e quali Robot sono stati battuti con le relative percentuali di copertura
 # GUIDA ALL'INSTALLAZIONE
 
 ## PASSO 1
